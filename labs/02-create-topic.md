@@ -117,7 +117,7 @@ Describe a topic:
 
 	root@fast-data-dev / $ kafka-topics --zookeeper 127.0.0.1:2181 --describe --topic first_topic
 	Topic:first_topic       PartitionCount:3        ReplicationFactor:1     Configs:
-   			Topic: first_topic      Partition: 0    Leader: 0       Replicas: 0     Isr: 0
+   		Topic: first_topic      Partition: 0    Leader: 0       Replicas: 0     Isr: 0
         	Topic: first_topic      Partition: 1    Leader: 0       Replicas: 0     Isr: 0
         	Topic: first_topic      Partition: 2    Leader: 0       Replicas: 0     Isr: 0
 
