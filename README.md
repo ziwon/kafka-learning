@@ -10,7 +10,7 @@
 
 ## Tutorials
 - [Apache Kafka Tutorial](https://www.youtube.com/playlist?list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON)
-- [Udemy Apache Kafka Series - Learning Apache Kafka for Beginners](http://goo.gl/lo7b3Y)
+- [Udemy Apache Kafka Series - Learning Apache Kafka for Beginners](https://goo.gl/lo7b3Y)
 - [Udemy Apache Kafka Series - Kafka Connect Hands-on Learning](https://goo.gl/wFm4SE)
 
 ## Books
