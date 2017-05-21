@@ -8,15 +8,15 @@
 - [Home](https://kafka.apache.org/)
 - [QuickStart](https://kafka.apache.org/quickstart)
 
-## Tutorial
+## Tutorials
 - [Apache Kafka Tutorial](https://www.youtube.com/playlist?list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON)
 - [Udemy Apache Kafka Series - Learning Apache Kafka for Beginners](https://www.udemy.com/apache-kafka-series-kafka-from-beginner-to-intermediate)
 - [Udemy Apache Kafka Series - Kafka Connect Hands-on Learning](https://www.udemy.com/apache-kafka-series-kafka-connect-hands-on-learning/)
 
-## Book
+## Books
 - [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169)
 
-## Video
+## Videos
 - [ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka](https://www.youtube.com/watch?v=I32hmY4diFY) (2017.02)
 - [Airstream: Spark Streaming At Airbnb](https://youtu.be/tJ1uIHQtoNc) (2016.07)
 - [Developing Real-Time Data Pipelines with Apache Kafka](https://www.youtube.com/watch?v=GRPLRONVDWY) (2016.03)
