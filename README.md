@@ -13,6 +13,9 @@
 - [Udemy Apache Kafka Series - Learning Apache Kafka for Beginners](https://www.udemy.com/apache-kafka-series-kafka-from-beginner-to-intermediate)
 - [Udemy Apache Kafka Series - Kafka Connect Hands-on Learning](https://www.udemy.com/apache-kafka-series-kafka-connect-hands-on-learning/)
 
+## Book
+- [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169)
+
 ## Video
 - [ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka](https://www.youtube.com/watch?v=I32hmY4diFY) (2017.02)
 - [Airstream: Spark Streaming At Airbnb](https://youtu.be/tJ1uIHQtoNc) (2016.07)
@@ -25,4 +28,5 @@
 - [FAQ](https://cwiki.apache.org/confluence/display/KAFKA/FAQ)
 - [Committers](http://kafka.apache.org/committers)
 - [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
-- [Papers & Presentations](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations)
+- [Papers & Talks](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations)
+- [Awesome Kafka](https://github.com/infoslack/awesome-kafka)
