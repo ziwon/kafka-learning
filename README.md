@@ -9,7 +9,8 @@
 - [QuickStart](https://kafka.apache.org/quickstart)
 
 ## Tutorials
-- [Apache Kafka Tutorial](https://www.youtube.com/playlist?list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON)
+- [Cloudurable Kafka Tutorial](http://cloudurable.com/blog/kafka-tutorial/index.html)
+- [Learning Journal Kafka Tutorial](https://www.youtube.com/playlist?list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON)
 - [Udemy Apache Kafka Series - Learning Apache Kafka for Beginners](https://goo.gl/lo7b3Y)
 - [Udemy Apache Kafka Series - Kafka Connect Hands-on Learning](https://goo.gl/wFm4SE)
 
