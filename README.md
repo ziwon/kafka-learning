@@ -26,10 +26,18 @@
 - [Building Realtime Data Pipelines with Kafka Connect and Spark Streaming](https://youtu.be/wMLAlJimPzk) (2016.02)
 - [Putting Apache Kafka to Use for Event Streams](https://www.youtube.com/watch?v=el-SqcZLZlI) (2015.04)
 
+## Articles
+- [Broker Config](https://kafka.apache.org/documentation/#brokerconfigs)
+- [How to choose the number of topics/partitions in a Kafka cluster?](https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/) (2015.03)
+- [min.insync.replicas gotchas: What does it actually do?](https://logallthethings.com/2016/07/11/min-insync-replicas-what-does-it-actually-do/) (2016.07)
+- [How Kafka’s Storage Internals Work](https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026) (2016.10)
+- Getting Started with Apache Kafka for the Baffled [Part 1](http://www.shayne.me/blog/2015/2015-06-16-everything-about-kafka-part-1/), [Part 2](http://www.shayne.me/blog/2015/2015-06-25-everything-about-kafka-part-2/) (2015.06)
+
 ## Links
 - [Wiki](https://cwiki.apache.org/confluence/display/KAFKA/Index)
 - [FAQ](https://cwiki.apache.org/confluence/display/KAFKA/FAQ)
 - [Committers](http://kafka.apache.org/committers)
 - [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
 - [Papers & Talks](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations)
+- [Performance Testing](https://cwiki.apache.org/confluence/display/KAFKA/Performance+testing)
 - [Awesome Kafka](https://github.com/infoslack/awesome-kafka)
