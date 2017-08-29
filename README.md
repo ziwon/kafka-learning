@@ -18,6 +18,7 @@
 
 ## Books
 - [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169)
+- [Kafka: The Definitive Guide (Preview Edition)](https://www.confluent.io/resources/kafka-definitive-guide-preview-edition/)
 
 ## Videos
 - [ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka](https://www.youtube.com/watch?v=I32hmY4diFY) (2017.02)
@@ -25,6 +26,8 @@
 - [Developing Real-Time Data Pipelines with Apache Kafka](https://www.youtube.com/watch?v=GRPLRONVDWY) (2016.03)
 - [Building Realtime Data Pipelines with Kafka Connect and Spark Streaming](https://youtu.be/wMLAlJimPzk) (2016.02)
 - [Putting Apache Kafka to Use for Event Streams](https://www.youtube.com/watch?v=el-SqcZLZlI) (2015.04)
+- [Introducing Exactly Once Semantics in Apache Kafka with Matthias J. Sax](https://www.youtube.com/watch?v=Wo9jlaz8h0k) (2017.06)
+- [Exactly Once Streaming from Kafka - Cody Koeninger (Kixer)](https://www.youtube.com/watch?v=fXnNEq1v3VA) (2015.06)
 
 ## Articles
 - [Broker Config](https://kafka.apache.org/documentation/#brokerconfigs)
@@ -32,6 +35,10 @@
 - [min.insync.replicas gotchas: What does it actually do?](https://logallthethings.com/2016/07/11/min-insync-replicas-what-does-it-actually-do/) (2016.07)
 - [How Kafka’s Storage Internals Work](https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026) (2016.10)
 - Getting Started with Apache Kafka for the Baffled [Part 1](http://www.shayne.me/blog/2015/2015-06-16-everything-about-kafka-part-1/), [Part 2](http://www.shayne.me/blog/2015/2015-06-25-everything-about-kafka-part-2/) (2015.06)
+
+## Tools
+- [Kafka Manager](https://github.com/yahoo/kafka-manager)
+- [Kafka Docker](https://github.com/wurstmeister/kafka-docker)
 
 ## Links
 - [Wiki](https://cwiki.apache.org/confluence/display/KAFKA/Index)
