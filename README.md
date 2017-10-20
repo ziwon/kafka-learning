@@ -47,4 +47,4 @@
 - [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
 - [Papers & Talks](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations)
 - [Performance Testing](https://cwiki.apache.org/confluence/display/KAFKA/Performance+testing)
-- [Awesome Kafka](https://github.com/infoslack/awesome-kafka)
+- [Awesome Kafka](https://github.com/infoslack/awesome-kafka)528d0bc38103328b4d04402d4c6481fd0a778d09
