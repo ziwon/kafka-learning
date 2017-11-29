@@ -39,6 +39,7 @@
 - Getting Started with Apache Kafka for the Baffled [Part 1](http://www.shayne.me/blog/2015/2015-06-16-everything-about-kafka-part-1/), [Part 2](http://www.shayne.me/blog/2015/2015-06-25-everything-about-kafka-part-2/) (2015.06)
 
 ## Tools
+- [Kafka cluster as Kubernetes StatefulSet](https://github.com/Yolean/kubernetes-kafka)
 - [Kafka Manager](https://github.com/yahoo/kafka-manager)
 - [Kafka Docker](https://github.com/wurstmeister/kafka-docker)
 
